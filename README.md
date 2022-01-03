@@ -17,7 +17,7 @@ Hi, I'm Sarthak ⚡, a developer 👨🏻‍💻 from India. I'm a third year Co
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
-- 🧠 Currently learning about big-data pipelines and kafka
+- 🧠 Currently learning about big-data pipelines and event-streaming with kafka
 - :zap: Currently working on research related to searchable encryption
 - 🤔 My research interests are with Cloud Networking and server-side development.
 - 📫 Please email via ssarthakk.jha@gmail.com to reach me.
