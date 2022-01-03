@@ -24,4 +24,4 @@ Hi, I'm Sarthak ⚡, a developer 👨🏻‍💻 from India. I'm a third year Co
 - 👀 See my [Resume](https://drive.google.com/file/d/1W7x5FabpxIZDNKbcmV8nzS16aqMtqHh5/view?usp=sharing) to get more info.
 - 💬 Ask me about anything, I would love to talk to you!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakjha&layout=compact" alt="sarthakjha" width="300" height="250" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakJha&layout=compact" alt="sarthakjha" width="300" height="250" />
