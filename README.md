@@ -21,13 +21,11 @@ Hi, I'm Sarthak ⚡, a developer 👨🏻‍💻 from India, currently working a
 - :zap: Currently working on research related to searchable encryption
 - 🤔 My research interests are with Cloud Networking and server-side development.
 - 📫 Please email via ssarthakk.jha@gmail.com to reach me.
-- 👀 See my [Resume](https://drive.google.com/file/d/1W7x5FabpxIZDNKbcmV8nzS16aqMtqHh5/view?usp=sharing) to get more info.
+- 👀 See my [Resume](https://drive.google.com/file/d/1mpMH4vKZJTClCKbAWMUTkHFugC9YKQoP/view?usp=sharing) to get more info.
 - 💬 Ask me about anything, I would love to talk to you!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakJha&layout=compact" alt="sarthakjha" width="300" height="250" />
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SarthakJha&count_private=true&show_icons=true&include_all_commits=true)
-
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SarthakJha.SarthakJha)
