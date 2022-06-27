@@ -12,12 +12,12 @@
 <br />
 <br />
 
-Hi, I'm Sarthak ⚡, a developer 👨🏻‍💻 from India, currently working as Software Engineering intern at Headout. I'm a third year Computer Science and Engineering student from MIT, Manipal. My interests lie in the domains of server-side development, DevOps and Cloud architecture. 
+Hi, I'm Sarthak, a developer 👨🏻‍💻 from India, currently working as Software Engineering intern at Headout. I'm a final year Computer Science and Engineering student from MIT, Manipal. My interests lie in the domains of server-side development, DevOps and Cloud architecture. 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
-- 🧠 Currently learning about react-native and event-streaming with kafka
+- 🧠 Currently learning about react-native and decentralised networks
 - :zap: Currently working on research related to searchable encryption
 - 🤔 My research interests are with Cloud Networking and server-side development.
 - 📫 Please email via ssarthakk.jha@gmail.com to reach me.
