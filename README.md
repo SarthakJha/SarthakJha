@@ -16,7 +16,7 @@ Hi, I'm Sarthak, a developer 👨🏻‍💻 from India, currently working as So
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
+**Current Status Quo** 
 - 🧠 Currently learning about react-native and decentralised networks
 - :zap: Currently working on research related to searchable encryption
 - 🤔 My research interests are with Cloud Networking and server-side development.
