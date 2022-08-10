@@ -19,7 +19,7 @@ Hi, I'm Sarthak, a developer 👨🏻‍💻 from India, currently working as So
 **Current Status Quo** 
 - 🧠 Currently learning about react-native and blockchain
 - :zap: Interested in research domains of applications of blockchain and information security
-- 🤔 My research interests are with Cloud Networking and server-side development.
+- 🤔 Experienced in working with backend development, App development and cloud-native tools
 - 📫 Please email via ssarthakk.jha@gmail.com to reach me.
 - 👀 See my [Resume](https://drive.google.com/file/d/1zc_2OWoT40wds6sj2SK7gz3WMt-9lFo5/view?usp=sharing) to get more info.
 - 💬 Ask me about anything, I would love to talk to you!
