@@ -12,7 +12,7 @@
 <br />
 <br />
  
-Hi, I'm Sarthak, a developer 👨🏻‍💻 from India, currently working as Software Engineering intern at Headout. I'm a final year Computer Science and Engineering student from MIT, Manipal. My interests lie in the domains of server-side development, DevOps and Cloud architecture. 
+Hi, I'm Sarthak, a developer 👨🏻‍💻 from India, currently working as iOS intern at BlinkIt. I'm a final year Computer Science and Engineering student from MIT, Manipal. My interests lie in the domains of server-side development, DevOps and Cloud architecture. 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
