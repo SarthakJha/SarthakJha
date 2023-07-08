@@ -12,7 +12,7 @@
 <br />
 <br />
  
-Hi, I'm Sarthak, a developer 👨🏻‍💻 from India, currently working as iOS intern at BlinkIt. I'm a final year Computer Science and Engineering student from MIT, Manipal. My interests lie in the domains of server-side development, DevOps and Cloud architecture. 
+Hi, I'm Sarthak, a developer 👨🏻‍💻 from India, currently working as SDE at BlinkIt. I'm a final year Computer Science and Engineering student from MIT, Manipal. My interests lie in the domains of server-side development, DevOps and Cloud architecture. 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -21,7 +21,6 @@ Hi, I'm Sarthak, a developer 👨🏻‍💻 from India, currently working as iO
 - :zap: Interested in research domains of applications of blockchain and information security
 - 🤔 Experienced in working with backend development, App development and cloud-native tools
 - 📫 Please email via ssarthakk.jha@gmail.com to reach me.
-- 👀 See my [Resume](https://drive.google.com/file/d/1zc_2OWoT40wds6sj2SK7gz3WMt-9lFo5/view?usp=sharing) to get more info.
 - 💬 Ask me about anything, I would love to talk to you!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakJha&layout=compact" alt="sarthakjha" width="300" height="250" />
